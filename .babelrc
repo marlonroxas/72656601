@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "jsx-control-statements",
+    ["import", {"libraryName": "antd", "libraryDirectory": "es", "style": "css"}]
+  ],
+  "presets": [
+    "react-app"
+  ]
+}

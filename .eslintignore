@@ -1,0 +1,9 @@
+node_modules/*
+generator/*
+public/*
+src/serviceWorker.js
+*.test.js
+./**/*.test.js
+scripts/*
+config/*
+.eslintrc.js
